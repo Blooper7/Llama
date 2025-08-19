@@ -1,3 +1,4 @@
+#!/bin/python3
 from parsing import Parser, tokenize
 import texts
 
