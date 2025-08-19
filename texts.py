@@ -14,6 +14,7 @@ Available commands:
  :show <varname> | Show a variable. Alternatively, just execute :show to see all variables
      :how2       | Shows a simple lambda calculus guide
    :church <n>   | Displays the church numberal for any number
+     :quit       | Leave the REPL
 """
 
 lambdaCalculus=r"""
